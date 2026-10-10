@@ -1,0 +1,3 @@
+C:/Users/akifa/OneDrive/Belgeler/CPP/Day2/cmake-build-debug/CMakeFiles/Day2.dir
+C:/Users/akifa/OneDrive/Belgeler/CPP/Day2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/akifa/OneDrive/Belgeler/CPP/Day2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
